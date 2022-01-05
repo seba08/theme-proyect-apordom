@@ -52,6 +52,7 @@
         get_template_part('partials/recursos-humanos/recursos-humanos');
         get_template_part('partials/programas-asistenciales/programas-asistenciales');
         get_template_part('partials/compras/compras');
+        get_template_part('partials/proyectos-programas/proyectos-programas');
         get_template_part('partials/finanzas/finanzas');
         get_template_part('partials/datos-abiertos/datos-abiertos');
         get_template_part('partials/comisiones-etica-publica/comisiones-etica-publica');
